@@ -7,14 +7,14 @@ author_profile: true
 
 
 
-### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at UTA
+### List of courses taught at UTA
 * **Summer 2022:** CSE 5306 Distributed Systems
 * **Summer 2022:** CSE 5311 Design and Analysis of Algorithms
 * **Spring 2022:** CSE 5306 Distributed Systems
 * **Spring 2022:** CSE 5311 Design and Analysis of Algorithms
 
 
-### <i class="fa fa-fw fa-apple-alt" aria-hidden="true"></i> List of courses taught at Port City International University
+### List of courses taught at Port City International University
 * **Summer 2016:** CSE 227: Algorithms
 * **Summer 2016:** CSE 228: Algorithms Sessional
 * **Summer 2016:** CSE 331: Pattern Recognition
