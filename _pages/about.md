@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an Adjunct Professor in the Department of Computer Science & Engineering at UTA. My research interest is in the area of distributed systems.
+I am a Senior Lecturer in the Department of Computer Science & Engineering at UTA. My research interest is in the area of distributed systems.
