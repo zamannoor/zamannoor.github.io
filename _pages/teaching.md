@@ -6,7 +6,7 @@ author_profile: true
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
 
 
-
+<!---
 ### List of courses taught at UTA
 * **Summer 2022:** CSE 5306 Distributed Systems
 * **Summer 2022:** CSE 5311 Design and Analysis of Algorithms
@@ -38,4 +38,4 @@ author_profile: true
 * **Spring 2015:** CSE 228: Algorithms Sessional
 * **Spring 2015:** CSE 211: Object Oriented Programming
 * **Spring 2015:** CSE 212: Object Oriented Programming Sessional
-
+-->
