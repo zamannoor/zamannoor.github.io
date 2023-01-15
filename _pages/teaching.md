@@ -4,7 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 <link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Righteous" rel="stylesheet">
-
+**CSE 5306 Distributed Systems **
+**CSE 5311 Design and Analysis of Algorithms ** 
+**CSE 6332 Cloud Computing and Big Data **
 
 <!---
 ### List of courses taught at UTA
