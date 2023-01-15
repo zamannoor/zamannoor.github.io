@@ -8,11 +8,13 @@ author_profile: true
  Issues and challenges in distributed systems, including: communication, distributed processes, naming and name services, synchronization, consistency and replication, transactions, fault tolerance and recovery, security, distributed objects, and distributed file systems.
  
  Use cases: MapReduce, Spark, Google File System, Cassandra, Pregel, Spanner, Raft, Bitcoin.
- 
 ## CSE 5311 Design and Analysis of Algorithms
  Techniques for analyzing upper bounds for algorithms and lower bounds for problems. Problem areas include: sorting, data structures, graphs, dynamic programming, combinatorial algorithms, linear programming, introduction to parallel models, NP-completeness, approximation algorithms.
 
-## CSE 6332 Cloud Computing and Big Data 
+## CSE 6332 Cloud Computing and Big Data
+The focus of this course is on data management techniques and tools for storing and analyzing very large volumes of data. Topics include: cloud computing; virtualization; distributed file systems; large data processing using Map-Reduce; data modeling, storage, indexing, and query processing for big data; key-value storage systems, columnar databases, NoSQL systems; big data technologies and tools; large-scale stream processing systems; data analytics frameworks; big data applications, including graph processing, recommendation systems, and machine learning.
+
+ Use cases: MapReduce, Spark, Pig, Hive, Spark SQL, Pregel, Bigtable, Dynamo.
 
 <!---
 ### List of courses taught at UTA
